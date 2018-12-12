@@ -1,0 +1,5 @@
+.wrapper-list-cards {
+  display: flex;
+  background: lightgrey;
+  justify-content: space-evenly;
+}

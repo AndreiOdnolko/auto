@@ -1,0 +1,427 @@
+{
+  "ads": [
+    {
+      "account_id": 2451597,
+      "ad_id": 52370631,
+      "area": "27",
+      "brand": "98",
+      "cars_abs": true,
+      "cars_alarm": true,
+      "cars_alloy_wheels": true,
+      "cars_aux": true,
+      "cars_capacity": 7,
+      "cars_climate": true,
+      "cars_color": "8",
+      "cars_cruise_control": false,
+      "cars_engine": "1",
+      "cars_gearbox": "2",
+      "cars_level_1": "3292",
+      "cars_navigation": false,
+      "cars_parktronic": true,
+      "cars_seatwarmer": false,
+      "cars_sunroof": false,
+      "cars_type": "5",
+      "cars_xenon": true,
+      "category": "2010",
+      "company_ad": true,
+      "company_address": "РБ, 220007, г.Минск, ул. Могилевская, д. 43а, к.1",
+      "condition": "2",
+      "contact_person": "Антон",
+      "currency": "BYR",
+      "images": [
+        {
+          "id": "7725979468"
+        },
+        {
+          "id": "7744113948"
+        },
+        {
+          "id": "7707248995"
+        },
+        {
+          "id": "7713000637"
+        },
+        {
+          "id": "7703285332"
+        },
+        {
+          "id": "7774347705"
+        },
+        {
+          "id": "7781291333"
+        },
+        {
+          "id": "7715384609"
+        },
+        {
+          "id": "7765332537"
+        }
+      ],
+      "list_id": 46724908,
+      "list_time": "2018-12-12T06:57:18Z",
+      "mileage": 2,
+      "name": "Иностранное унитарное предприятие Мультимоторс",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": true,
+        "ribbons": null
+      },
+      "phone": "375296407395",
+      "possible_exchange": true,
+      "price_byn": "3100000",
+      "price_usd": "1458549",
+      "regdate": "2018",
+      "region": 7,
+      "remuneration_type": "1",
+      "shop_guarantee": "3 года/100 000 км",
+      "shop_manufacturer": "СП ЗАО ''Юнисон''",
+      "shop_service": "Мультимоторс",
+      "subject": "Zotye T600 Royal 1.5 turbo, КРЕДИТ, РАССРОЧКА",
+      "type": "sell",
+      "user_id": 2487367,
+      "vat_number": "190736341"
+    },
+    {
+      "account_id": 2451597,
+      "ad_id": 52494384,
+      "area": "27",
+      "brand": "98",
+      "cars_abs": true,
+      "cars_alarm": true,
+      "cars_alloy_wheels": true,
+      "cars_aux": true,
+      "cars_capacity": 7,
+      "cars_climate": true,
+      "cars_color": "5",
+      "cars_cruise_control": false,
+      "cars_engine": "1",
+      "cars_gearbox": "2",
+      "cars_level_1": "3292",
+      "cars_navigation": false,
+      "cars_parktronic": false,
+      "cars_seatwarmer": false,
+      "cars_sunroof": false,
+      "cars_type": "5",
+      "cars_xenon": true,
+      "category": "2010",
+      "company_ad": true,
+      "company_address": "РБ, 220007, г.Минск, ул. Могилевская, д. 43а, к.1",
+      "condition": "2",
+      "contact_person": "Антон",
+      "currency": "BYR",
+      "images": [
+        {
+          "id": "8060732121"
+        },
+        {
+          "id": "8035758157"
+        },
+        {
+          "id": "8095421390"
+        },
+        {
+          "id": "8072131261"
+        },
+        {
+          "id": "8039721820"
+        },
+        {
+          "id": "8082338415"
+        },
+        {
+          "id": "8033478329"
+        },
+        {
+          "id": "8076094924"
+        }
+      ],
+      "list_id": 46886515,
+      "list_time": "2018-12-12T06:56:52Z",
+      "mileage": 0,
+      "name": "Иностранное унитарное предприятие Мультимоторс",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": true,
+        "ribbons": null
+      },
+      "phone": "375296407395",
+      "possible_exchange": true,
+      "price_byn": "2840000",
+      "price_usd": "1336219",
+      "regdate": "2018",
+      "region": 7,
+      "remuneration_type": "1",
+      "shop_guarantee": "3 года/100 000 км",
+      "shop_manufacturer": "СП ЗАО ''Юнисон''",
+      "shop_service": "Мультимоторс",
+      "subject": "Zotye T600 1.5 МКПП",
+      "type": "sell",
+      "user_id": 2487367,
+      "vat_number": "190736341"
+    },
+    {
+      "account_id": 171488,
+      "ad_id": 65148157,
+      "area": "24",
+      "brand": "3",
+      "cars_abs": true,
+      "cars_alarm": true,
+      "cars_alloy_wheels": true,
+      "cars_aux": true,
+      "cars_capacity": 10,
+      "cars_climate": true,
+      "cars_color": "2",
+      "cars_cruise_control": true,
+      "cars_drive": "1",
+      "cars_engine": "1",
+      "cars_gearbox": "1",
+      "cars_level_1": "37",
+      "cars_navigation": true,
+      "cars_parktronic": true,
+      "cars_seatwarmer": true,
+      "cars_type": "1",
+      "cars_xenon": true,
+      "category": "2010",
+      "company_ad": true,
+      "company_address": "г. Минск, ул. Гинтовта 28 корп.1",
+      "condition": "1",
+      "contact_person": "Евгений",
+      "currency": "BYR",
+      "images": [
+        {
+          "id": "7537855235"
+        },
+        {
+          "id": "7581559672"
+        },
+        {
+          "id": "7557181701"
+        },
+        {
+          "id": "7574228339"
+        },
+        {
+          "id": "7593554805"
+        }
+      ],
+      "list_id": 58499417,
+      "list_time": "2018-12-10T08:20:38Z",
+      "mileage": 190000,
+      "name": "Клиент Авто Гарант",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": true,
+        "ribbons": null
+      },
+      "phone": "375296604979",
+      "price_byn": "2132800",
+      "price_usd": "1003482",
+      "regdate": "2008",
+      "region": 7,
+      "remuneration_type": "1",
+      "subject": "Внешний s line",
+      "type": "sell",
+      "user_id": 729423,
+      "vat_number": "691312750"
+    },
+    {
+      "account_id": 1099633,
+      "ad_id": 62977188,
+      "area": "30",
+      "brand": "29",
+      "cars_capacity": 6,
+      "cars_color": "8",
+      "cars_drive": "1",
+      "cars_engine": "1",
+      "cars_gearbox": "1",
+      "cars_level_1": "616",
+      "cars_type": "1",
+      "category": "2010",
+      "company_ad": true,
+      "company_address": "г. Минск, ул. Б. Берута, 3 ''Б'', офис 514",
+      "condition": "2",
+      "currency": "USD",
+      "images": [
+        {
+          "id": "4330661289"
+        },
+        {
+          "id": "4356231246"
+        },
+        {
+          "id": "4362474737"
+        },
+        {
+          "id": "4393692192"
+        },
+        {
+          "id": "4379521375"
+        },
+        {
+          "id": "4396568013"
+        },
+        {
+          "id": "4368122235"
+        },
+        {
+          "id": "4308459002"
+        }
+      ],
+      "list_id": 56492154,
+      "list_time": "2018-12-04T09:15:08Z",
+      "mileage": 0,
+      "name": "ооо ''ньюрус''",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": true,
+        "ribbons": null
+      },
+      "phone": "375297200810",
+      "price_byn": "2620831",
+      "price_usd": "1233100",
+      "regdate": "2018",
+      "region": 7,
+      "remuneration_type": "1",
+      "subject": "Новый Hyundai Solaris Active Plus",
+      "type": "sell",
+      "user_id": 1730398,
+      "vat_number": "192629335"
+    },
+    {
+      "account_id": 1099633,
+      "ad_id": 62981967,
+      "area": "30",
+      "brand": "64",
+      "cars_capacity": 8,
+      "cars_color": "4",
+      "cars_drive": "1",
+      "cars_engine": "1",
+      "cars_gearbox": "1",
+      "cars_level_1": "1395",
+      "cars_type": "1",
+      "category": "2010",
+      "company_ad": true,
+      "company_address": "г. Минск, ул. Б. Берута, 3 ''Б'', офис 514",
+      "condition": "2",
+      "currency": "USD",
+      "images": [
+        {
+          "id": "4383234455"
+        },
+        {
+          "id": "4324659064"
+        },
+        {
+          "id": "4364995831"
+        },
+        {
+          "id": "4390565788"
+        },
+        {
+          "id": "4399089107"
+        },
+        {
+          "id": "4339425874"
+        },
+        {
+          "id": "4332094541"
+        }
+      ],
+      "list_id": 56496498,
+      "list_time": "2018-11-20T08:40:19Z",
+      "mileage": 1,
+      "name": "ооо ''ньюрус''",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": true,
+        "ribbons": null
+      },
+      "phone": "375297200810",
+      "price_byn": "3281405",
+      "price_usd": "1543900",
+      "regdate": "2018",
+      "region": 7,
+      "remuneration_type": "1",
+      "subject": "Новая Skoda Rapid Style",
+      "type": "sell",
+      "user_id": 1730398,
+      "vat_number": "192629335"
+    },
+    {
+      "account_id": 1099633,
+      "ad_id": 62976618,
+      "area": "30",
+      "brand": "29",
+      "cars_capacity": 12,
+      "cars_color": "3",
+      "cars_drive": "3",
+      "cars_engine": "1",
+      "cars_gearbox": "1",
+      "cars_level_1": "2415",
+      "cars_type": "5",
+      "category": "2010",
+      "company_ad": true,
+      "company_address": "г. Минск, ул. Б. Берута, 3 ''Б'', офис 514",
+      "condition": "2",
+      "currency": "USD",
+      "images": [
+        {
+          "id": "4302366057"
+        },
+        {
+          "id": "4342106831"
+        },
+        {
+          "id": "4336459333"
+        },
+        {
+          "id": "4367676788"
+        },
+        {
+          "id": "4301770064"
+        },
+        {
+          "id": "4318816702"
+        },
+        {
+          "id": "4304645885"
+        },
+        {
+          "id": "4344386659"
+        },
+        {
+          "id": "4355785799"
+        },
+        {
+          "id": "4369956616"
+        }
+      ],
+      "list_id": 56491639,
+      "list_time": "2018-11-08T09:53:41Z",
+      "mileage": 0,
+      "name": "ооо ''ньюрус''",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": true,
+        "ribbons": null
+      },
+      "phone": "375297200810",
+      "price_byn": "6078644",
+      "price_usd": "2860000",
+      "regdate": "2018",
+      "region": 7,
+      "remuneration_type": "1",
+      "subject": "Новый Hyundai Creta Active",
+      "type": "sell",
+      "user_id": 1730398,
+      "vat_number": "192629335"
+    }
+  ],
+  "total": 6
+}
