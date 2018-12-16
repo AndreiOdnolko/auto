@@ -8,14 +8,13 @@ const actions = {
   GET_CARDS: "GET_CARDS"
 }
 
-export const getCards = (data) => ({  
+export const getCards = (data) => ({
   type: actions.GET_CARDS,
   payload: data
 });
 
-
 export const getCardsThunk = () => (dispatch) => {
-  axios.get('/db.json').then(({data}) => {           
+  axios.get('/db.json').then(({ data }) => {
     dispatch(getCards(data.ads))
   })
 }
@@ -23,15 +22,19 @@ export const getCardsThunk = () => (dispatch) => {
 export default (state = initilState, action) => {
   switch (action.type) {
     case actions.GET_CARDS:
-    debugger
+      let newItems = [];
+      action.payload.forEach((elem, i) => {
+        while (i < 3) {
+          newItems.push(elem);
+          break;
+        }
+      });
       return {
         ...state,
         isReady: true,
-        items: [ action.payload[0], action.payload[1], action.payload[2] ]
+        items: newItems,
       }
     default:
       return state
   }
 }
-
-

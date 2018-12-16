@@ -11,28 +11,27 @@ class ListAuto extends Component {
     getAllCards();
   }
   render() {
-    const { cards } = this.props;
+    const { cards, isReady } = this.props;
     let items = [];
-    if(cards.isReady) {
-      debugger
-      items = cards.items.map((elem, i) => {
+    if(isReady) {
+      items = cards.map((elem, i) => {
         return (
           <OneAuto data = {elem} key = {i}/>
         )
       })
       return items
-    }
-    
+    }    
     return (
       <div className="wrapper-list-cards">      
-        {items}
+        { !isReady ? 'is Loading' : {items} }
       </div>
     );
   }
 }
 
-const mapStateToProps = state => ({
-  cards: state.cards
+const mapStateToProps = ({ cards }) => ({
+  cards: cards.items,
+  isReady: cards.isReady
 })
 
 const mapDispatchToProps = dispatch => ({
